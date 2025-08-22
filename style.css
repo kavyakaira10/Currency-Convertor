@@ -71,4 +71,11 @@ button{
   color: #fff;
   margin-bottom: 1rem;
   font-weight: 700;
+  cursor: pointer;
+}
+select{
+  cursor: pointer;
+}
+#swap-btn{
+  cursor: pointer;
 }
